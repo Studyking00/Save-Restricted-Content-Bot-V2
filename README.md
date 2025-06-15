@@ -68,7 +68,7 @@ python3 -m devgagan
 
 ## Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Studyking00/Save-Restricted-Content-Bot-V2)
 - Fill your values and click deploy ✅
 
 ## Deploy on Render
